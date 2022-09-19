@@ -1,0 +1,60 @@
+[
+	{
+	  "id": "cfae3593-4309-4488-ae5a-3d2baaa8d748",
+	  "addresses": [
+		{
+		  "type": "BILLING",
+		  "id": "bcb52e0e-134e-4d46-86c6-cc578e7f4435",
+		  "street": "4031 Owen Lane",
+		  "floor": "1",
+		  "city": "Kinston",
+		  "state": "NC",
+		  "zipCode": "28501",
+		  "country": "US",
+		  "consumer": "cfae3593-4309-4488-ae5a-3d2baaa8d748"
+		},
+		{
+		  "type": "SHIPPING",
+		  "id": "2c7c5a7e-1afb-479f-87b2-916b4bf27101",
+		  "street": "4031 Owen Lane",
+		  "floor": "1",
+		  "city": "Kinston",
+		  "state": "NC",
+		  "zipCode": "28501",
+		  "country": "US",
+		  "consumer": "cfae3593-4309-4488-ae5a-3d2baaa8d748"
+		}
+	  ],
+	  "firstName": "Diogo",
+	  "lastName": "Rodrigues"
+	},
+	{
+	  "id": "6553bdad-7bed-4bac-b9ce-6991f5e9eac1",
+	  "addresses": [
+		{
+		  "type": "BILLING",
+		  "id": "42bfabb7-26e9-4e93-bff3-43a6e0121c56",
+		  "street": "552 Young Road",
+		  "floor": "1",
+		  "city": "Rupert",
+		  "state": "ID",
+		  "zipCode": "83350",
+		  "country": "US",
+		  "consumer": "6553bdad-7bed-4bac-b9ce-6991f5e9eac1"
+		},
+		{
+		  "type": "SHIPPING",
+		  "id": "978c7630-1917-4b1f-a622-b605e916d9c0",
+		  "street": "552 Young Road",
+		  "floor": "1",
+		  "city": "Rupert",
+		  "state": "ID",
+		  "zipCode": "83350",
+		  "country": "US",
+		  "consumer": "6553bdad-7bed-4bac-b9ce-6991f5e9eac1"
+		}
+	  ],
+	  "firstName": "Alexandra",
+	  "lastName": "Barreira"
+	}
+  ]
